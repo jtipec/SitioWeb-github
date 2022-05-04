@@ -1,6 +1,5 @@
 <?php include('template/cabecera.php'); ?>
 
-
             <div class="col-md-12">
                 <div class="p-5 bg-light">
                     <!-- <div class="container"> -->
@@ -15,5 +14,4 @@
                 </div>
             </div>
 
-        
 <?php include('template/pie.php'); ?>
